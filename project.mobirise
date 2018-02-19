@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 30,
+    "uniqCompNum": 32,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png"
   },
@@ -73,6 +73,31 @@
         },
         {
           "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-u"
+        },
+        {
+          "_params": {
             "googleMap": {
               "address": "mont ventoux bedoin",
               "placeId": "ChIJZ3Nvr1pkyhIRzRsKXKwkPw0",
@@ -83,8 +108,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "map2",
-          "_anchor": "map2-t"
+          "_name": "map1",
+          "_anchor": "map1-v"
         },
         {
           "_inherit": "menu",
