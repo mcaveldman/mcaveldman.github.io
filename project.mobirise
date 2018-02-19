@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png"
   },
@@ -70,6 +70,76 @@
               "color": "#cccccc"
             }
           }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "images/slide1.jpg",
+                "thumb": "images/slide1-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "images/slide2.jpg",
+                "thumb": "images/slide2-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "thumb": "images/slide3-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide4.jpg",
+                "thumb": "images/slide4-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide5.jpg",
+                "thumb": "images/slide5-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide6.jpg",
+                "thumb": "images/slide6-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "images/slide7.jpg",
+                "thumb": "images/slide7-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "images/slide8.jpg",
+                "thumb": "images/slide8-small.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-s"
         },
         {
           "_inherit": "menu",
